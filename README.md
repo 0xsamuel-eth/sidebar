@@ -1,2 +1,3 @@
-# sidebar
-Sidebar Project
+# Sidebar Project
+
+A sidebar navigation tool
